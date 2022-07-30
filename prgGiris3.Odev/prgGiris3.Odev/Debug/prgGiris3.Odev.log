@@ -1,0 +1,3 @@
+﻿  prgGiris3.Odev.cpp
+C:\Users\PC\Desktop\C++\Programlamaya giriş 1.Sınıf Ödevler\prgGiris3.Odev\prgGiris3.Odev\prgGiris3.Odev.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  prgGiris3.Odev.vcxproj -> C:\Users\PC\Desktop\C++\Programlamaya giriş 1.Sınıf Ödevler\prgGiris3.Odev\Debug\prgGiris3.Odev.exe
